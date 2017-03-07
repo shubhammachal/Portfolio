@@ -1,0 +1,195 @@
+body
+{
+	background-image: url("https://wallpaperscraft.com/image/solid_colors_stains_light_18571_1920x1080.jpg");
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    
+}
+
+li a {
+    display: block;
+    color:	#808080;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+#Address{
+	float:right;
+	font-family: serif;
+	text-align: right;
+	padding-right: 20px;
+	font-size: 13px;
+}
+#header
+{
+	background-image: url("https://wallpaperscraft.com/image/background_solid_spot_light_65990_1920x1080.jpg");
+	
+	height: 400px;
+	position: relative;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+	margin-top: 40px;
+}
+#name
+{
+	color: #ADD8E6;
+	font-family: cursive;
+	text-align: center;
+	
+	padding-top: 100px;
+
+	font-size: 30px;
+
+
+}
+#link
+{
+	font-size: 24px;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 30px;
+	background-color: #333;
+	margin-top: 50px;
+	padding: 0;
+	margin:0;
+
+}
+p a {
+    display: inline;
+    color:	#808080;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#objective
+{
+	background-image: url("https://wallpaperscraft.com/image/color_background_surface_solid_18481_1920x1080.jpg");
+	height: 120px;
+	position: relative;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+	margin-top: 40px;
+	font-family: serif;
+	padding: 10px;
+	line-height: 25px;
+	color: #ADD8E6;
+	font-size: 20px;
+}
+#education
+{
+	background-image: url("http://www.akacanholding.com/images/h_bg.jpg");
+	color: #ADD8E6;
+	font-family: serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+	margin-top: 40px;
+	font-family: serif;
+	padding: 10px;
+	line-height: 20px;
+	color: #ADD8E6;
+	text-align: left;
+
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+#skills{
+	background-image: url("https://www.clipartsgram.com/image/87281130-plain-backgrounds-light-green-website-background-hd-wallpaper-plain-888779177.jpg");
+	color: #ADD8E6;
+	font-family: serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+	margin-top: 40px;
+	font-family: serif;
+	padding: 10px;
+	line-height: 20px;
+	color: #ADD8E6;
+	text-align: left;
+	padding-bottom: 20px;
+
+}
+#skills{
+	background-image: url("http://hd-wall-papers.com/images/wallpapers/plain-backgrounds/plain-backgrounds-15.jpg");
+	color: #ADD8E6;
+	font-family: serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+	margin-top: 40px;
+	font-family: serif;
+	padding: 10px;
+	line-height: 25px;
+	color: #ADD8E6;
+	text-align: left;
+	padding-bottom: 20px;
+	font-size: 20px;
+	height: 140px;
+
+}
+#Achievements
+{
+	background-image: url("http://hd-wall-papers.com/images/wallpapers/simple-background/simple-background-4.jpg");
+	color: #ADD8E6;
+	font-family: serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+	margin-top: 40px;
+	font-family: serif;
+	padding: 10px;
+	line-height: 25px;
+	color: #ADD8E6;
+	text-align: left;
+	padding-bottom: 20px;
+	font-size: 20px;
+	height: 170px;
+
+}
+#Hobbies{
+	background-image: url("https://wallpaperscraft.com/image/background_solid_spot_light_65990_1920x1080.jpg");
+	
+	color: #ADD8E6;
+	font-family: serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+	margin-top: 40px;
+	font-family: serif;
+	padding: 10px;
+	line-height: 25px;
+	color: #ADD8E6;
+	text-align: left;
+	padding-bottom: 20px;
+	font-size: 20px;
+	height: 140px;
+}
+#Address2
+{
+	font-size: 15px;
+	text-align: left;
+	float: left;
+	color: #333;
+}
